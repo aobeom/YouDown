@@ -1,0 +1,20 @@
+.App {
+    position: relative;
+    top: 4rem;
+    text-align:center;
+}
+
+.AppWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.AppItem {
+    margin: 12px;
+}
+
+.AppData {
+    height: 4rem;
+}
